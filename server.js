@@ -1,5 +1,5 @@
 const app = require("./app");
-const port = process.env.PORT || 80;
+const port = 5443;
 
-app.listen(port);
-console.log("Server running (80)");
+app.listen(port, '0.0.0.0',);
+console.log("Server running (5443)");
