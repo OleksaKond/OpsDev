@@ -1,5 +1,6 @@
 # Lab DevOps
-`Add the badge here (see assignment below)`
+![OleksaKond-OpsDev-CI](https://github.com/Hagenberg-DevOps-And-Secure-Coding/devops-workshop-OleksaKond/actions/workflows/OleksaKond-OpsDev-CI.yml/badge.svg)
+
 
 ## Introduction
 The company OpsDev has been secretly following our DevOps workshop and has jumped on the chance to implement a CI/CD pipeline for their own calculator app. However, the company considers itself allergic to Jenkins and (locally hosted) virtual machines.
